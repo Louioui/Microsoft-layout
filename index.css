@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+  }
+  
+  span {
+    display: inline-block;
+  }
+  
+.mini-layout span {
+    border: 1px solid black;
+  }
+  .mini-layout img{
+      width: 115px;
+      height: 115px;
+  }
+  .pic img{
+      height: 100px;
+      width: 530px;
+  }
